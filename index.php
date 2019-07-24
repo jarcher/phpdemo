@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Simple PHP App</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
         <style>body {margin-top: 40px;}</style>
         <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple PHP App for Chevron</h1>
+                <h1>Simple smoke test PHP App</h1>
                 <h2>Congratulations!</h2>
                 <p>Your PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment in the Red Hat OpenShift Container Platform .</p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
